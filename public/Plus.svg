@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 512 512">
+    <!-- Light Gray Background Rectangle -->
+    <rect width="100%" height="100%" fill="#bbb18c" />
+    
+    <!-- Dark Gray Plus Icon (Centered) -->
+    <g fill="#958d70">
+        <!-- The plus sign is drawn using two rectangles -->
+        <rect x="236" y="100" width="40" height="312" />
+        <rect x="100" y="236" width="312" height="40" />
+    </g>
+</svg>
