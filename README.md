@@ -17,12 +17,20 @@ Open [http://localhost:3000](http://localhost:3000)
     Effective Routing: Manages server responses to various URL paths and HTTP methods.
     High Performance: Optimizes application speed, essential for handling traffic.
     Strong Community Support: Large ecosystem with extensive resources and plugins.
+
+
+
+    
 **Next.js**
       Server-Side Rendering (SSR): Improves page load times and overall performance.
       SEO Friendly: Better indexing and ranking on search engines.
       Zero Configuration Setup: Easy to start new projects with minimal setup.
       Automatic Code Splitting: Optimizes loading by breaking down code into manageable chunks.
       Integrated Routing System: Simplifies page-based routing without additional configuration.
+
+
+
+      
 **About the app:**
       Task Management: Users can easily add, update, and delete tasks, providing a flexible way to manage their to-do list.
       Marking Tasks: The app allows users to mark tasks as complete or incomplete. This feature helps in tracking progress and prioritizing tasks effectively.
